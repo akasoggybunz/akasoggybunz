@@ -8,6 +8,6 @@ A Repo to house my brand
 - Sparknite: https://sparknite.com Employee onboarding SaaS. Currently a Work in Progress. 
 
 Socials
-- Youtube: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&cad=rja&uact=8&ved=0ahUKEwiYiNqjiO7UAhUp3IMKHT5YCiwQFgg3MAU&url=http%3A%2F%2Fwww.youtube.com%2Fuser%2FAkaSoggyBunz&usg=AFQjCNHuek6QdUAwKZIYcZNOk3PluhShNA
-- Twitter:https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&cad=rja&uact=8&ved=0ahUKEwiYiNqjiO7UAhUp3IMKHT5YCiwQFgg8MAY&url=https%3A%2F%2Ftwitter.com%2Fakasoggybunz&usg=AFQjCNH8tSLx7OhiHhpRIaMgC6PARhfiVA
-- Patreon: https://www.patreon.com/akasoggybunz
+- [YouTube](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&cad=rja&uact=8&ved=0ahUKEwiYiNqjiO7UAhUp3IMKHT5YCiwQFgg3MAU&url=http%3A%2F%2Fwww.youtube.com%2Fuser%2FAkaSoggyBunz&usg=AFQjCNHuek6QdUAwKZIYcZNOk3PluhShNA)
+- [Twitter](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&cad=rja&uact=8&ved=0ahUKEwiYiNqjiO7UAhUp3IMKHT5YCiwQFgg3MAU&url=http%3A%2F%2Fwww.youtube.com%2Fuser%2FAkaSoggyBunz&usg=AFQjCNHuek6QdUAwKZIYcZNOk3PluhShNA)
+- [Patreon](https://www.patreon.com/akasoggybunz)
