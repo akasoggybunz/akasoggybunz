@@ -20,5 +20,5 @@ This Repo is to house my brand, whatever that means.
 - Backpacking: I have been on a 13,000 peak.
 
 ## Support Me
-- If you like what I am up to and want to support me? You can [here](https://www.buymeacoffee.com/updoots).
+- If you like what I am up to and want to support me. You can [here](https://www.buymeacoffee.com/updoots).
 
