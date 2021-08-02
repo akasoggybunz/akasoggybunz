@@ -5,7 +5,7 @@ This Repo is to house my brand, whatever that means.
 - [Akasoggybunz](https://akasoggybunz.website):  Website for more content reguarding my Youtube channel, and other hobbies. Just a Place I use to document my hobbies, intrests, code, electronics, and other stuff.
 - [Updoots](https://www.updoots.com):  Website for saving useful internet sites. Kind of like pintrest, or the bookmark bar on your internet browser. I just needed a better way of organizing websites. This allows you to save them for later, share them as a group, and some more. Still in very early development. 
 - [Updoots Adder](https://chrome.google.com/webstore/detail/updoots-adder/adfejilhcbenglgcdllkakdoppighbkc?hl=en-US):  Updoots Chrome extension for easily adding website while browsing the web.
-- [ASMRHUNT.com](asmrhunt.com) Social website to discover and submit ASMR videos found on the internet. 
+- [ASMRHUNT.com](https://asmrhunt.com) Social website to discover and submit ASMR videos found on the internet. 
 
 
 ## Socials
