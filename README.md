@@ -17,7 +17,7 @@ This Repo is to house my brand, whatever that means.
 - Raspberry Pi: I love this little computer. I would say it has drived a lot of my passion of electronics and coding. 
 - Pc Gaming: Cities skylines, Rocket League, and Arma 3 are my go to games.
 - Home Automation: I am currently using Hass.IO. I am also currently developing my own [here](https://github.com/akasoggybunz/HomeAutomationCore). 
-- Scuba Diving: Always looking to log more in my log book.
+- Scuba Diving: Always looking to log more in my dive book.
 - Backpacking: I have been on a 13,000 peak.
 
 ## Support Me
