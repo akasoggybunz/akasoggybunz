@@ -2,6 +2,7 @@
 This Repo is to house my brand, whatever that means.
 
 https://www.youtube.com/@AkaSoggyBunz
+https://www.amazon.com/shop/akasoggybun01
 
 ## Interests
 - Raspberry Pi: I love this little computer. I would say it has drived a lot of my passion of electronics and coding. 
