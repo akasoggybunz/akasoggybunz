@@ -4,7 +4,7 @@ This Repo is to house my brand, whatever that means.
 ## Links
 - https://www.youtube.com/@AkaSoggyBunz
 - https://www.thingiverse.com/akasoggybunz/designs
-- https://github.com/akasoggybunz/SignumOutdoors_Landing
+- https://akasoggybunz.github.io/SignumOutdoors_Landing/
 
 ## Interests
 - Raspberry Pi: I love this little computer. I would say it has drived a lot of my passion of electronics and coding. 
